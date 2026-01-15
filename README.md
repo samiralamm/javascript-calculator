@@ -21,14 +21,13 @@ This project demonstrates basic DOM manipulation, event handling, and UI styling
 ---
 
 ## 📂 Project Structure
-.
 ├── index.html
 ├── style.css
 └── script.js
 ---
 
 ## 🌐 Live Demo
-👉 https://samiralamm.github.io/CodeAlpha_Calculator/
+👉 https://samiralamm.github.io/javascript-calculator/
 
 ---
 
