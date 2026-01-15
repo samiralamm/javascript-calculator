@@ -45,3 +45,24 @@ buttons.forEach(button => {
         }
     });
 });
+
+// Append value to display
+// function appendValue(value) {
+//   document.getElementById("display").value += value;
+// }
+
+// // Clear display
+// function clearDisplay() {
+//   document.getElementById("display").value = "";
+// }
+
+// // Calculate result
+// function calculate() {
+//   try {
+//     document.getElementById("display").value =
+//       eval(document.getElementById("display").value);
+//   } catch {
+//     document.getElementById("display").value = "Error";
+//   }
+// }
+
